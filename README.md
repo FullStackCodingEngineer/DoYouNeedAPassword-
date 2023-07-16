@@ -1,5 +1,7 @@
 # Password-Generator
- 
+
+ ![Screenshot (4)](https://github.com/FullStackCodingEngineer/DoYouNeedAPassword-/assets/134674607/96ecf515-1ddd-41ea-bcac-6b33d5f42689)
+
  This application provides the user with the ability to generate a password without having to type and choose numbers, letters ot special characters on their own. It esentially makes creating a password easy because the user can just copy and paste their randomly generated password after just a few second of using this web application.
 
 To install this, clone the code to your PC by using the "Git Clone" command in the terminal followed by the HTTP URL or simply download the zip file and unzip the contents of the file.
